@@ -50,7 +50,9 @@ $ip = '10.10.10.55';  // C2 server
 **Q5: What is the attacker's C2 IP address?**
 → `10.10.10.55`
 
-✅ Part 1 complete — server reveals password to unlock the next file.
+✅ Part 1 complete — server reveals password to unlock the next file.  
+
+Password : xK9mP2q
 
 ---
 
@@ -82,6 +84,8 @@ The same external IP hitting `wp-cron.php` every night at exactly 3AM — the at
 → `cron abuse` / `cron persistence` / `wp-cron abuse`
 
 ✅ Part 2 complete — server reveals password to unlock the next file.
+
+Password : bL7nR4w
 
 ---
 
