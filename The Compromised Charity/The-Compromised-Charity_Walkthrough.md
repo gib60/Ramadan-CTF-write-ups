@@ -52,7 +52,7 @@ $ip = '10.10.10.55';  // C2 server
 
 ✅ Part 1 complete — server reveals password to unlock the next file.  
 
-Password : xK9mP2q
+Logs Password : xK9mP2q
 
 ---
 
@@ -85,7 +85,7 @@ The same external IP hitting `wp-cron.php` every night at exactly 3AM — the at
 
 ✅ Part 2 complete — server reveals password to unlock the next file.
 
-Password : bL7nR4w
+Payment-config.php Password : bL7nR4w
 
 ---
 
