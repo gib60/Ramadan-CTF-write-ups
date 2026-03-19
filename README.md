@@ -7,5 +7,5 @@
 - The Compromised Charity (Easy-Medium)
 
 ## Notes
-Some challenges originally required remote services (nc),
+Some challenges originally required remote server (netcat) which are no longer available,
 but all writeups are adapted for offline analysis.
